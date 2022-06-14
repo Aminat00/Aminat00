@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Aminat00
+- 👋 Hi, I’m Aminat
 - 👀 I’m interested in Web Development and Design
-- 🌱 I’m currently learning Dart and  Flutter
-- 💞️ I’m looking to collaborate on Flutter project
+- 🌱 I’m currently learning and practising React
+- 🌱 I am also strongly interested in Dart and Flutter
+- 💞️ I’m looking to collaborate on React, Material Ui and Flutter project
 - 📫 How to reach me mldlv.mnt.kg@gmail.com
 
 <!---
